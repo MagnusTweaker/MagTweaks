@@ -14,10 +14,6 @@ I would like to acknowledge some of the content creators I have collaborated wit
 #
 Credits.
 =
-- DefenderRemover: https://github.com/ionuttbara/windows-defender-remover
-
-- DevManView: https://www.nirsoft.net/utils/device_manager_view.html
-
 - MSI Utility V3: https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/
 
 - NvidiaProfileInspector: https://github.com/Orbmu2k/nvidiaProfileInspector

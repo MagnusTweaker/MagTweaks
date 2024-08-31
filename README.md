@@ -14,12 +14,20 @@ I would like to acknowledge some of the content creators I have collaborated wit
 #
 Credits.
 =
+NVIDIA Folder:
+- NvidiaProfileInspector: https://github.com/Orbmu2k/nvidiaProfileInspector/releases/tag/2.4.0.4
+
+Snappy Driver Folder:
+Snappy Driver Origin: https://www.glenn.delahoy.com/snappy-driver-installer-origin/
+
+Telemtry Folder:
+DWS: https://github.com/spinda/Destroy-Windows-10-Spying
+Shutup10: https://www.oo-software.com/en/shutup10
+
+Timer Resolution Folder:
+- MeasureSleep/SetTimerResolution/TimerResolutionBenchmark: Amitxv (The original content is currently deleted.
+- DPC Latency Checker: https://www.softpedia.com/get/System/System-Info/DPC-Latency-Checker.shtml
+
+Others: 
 - MSI Utility V3: https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/
-
-- NvidiaProfileInspector: https://github.com/Orbmu2k/nvidiaProfileInspector
-
 - PowerRun: https://www.sordum.org/9416/powerrun-v1-6-run-with-highest-privileges/
-
-- SetTimerResolution: https://www.softpedia.com/get/Desktop-Enhancements/Clocks-Time-Management/TimerResolution-amitxv.shtml (I don't really know who the creator is, but I found it here.)
-
-- O&O ShutUp10++: https://www.oo-software.com/en/shutup10

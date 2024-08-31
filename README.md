@@ -18,11 +18,11 @@ NVIDIA Folder:
 - NvidiaProfileInspector: https://github.com/Orbmu2k/nvidiaProfileInspector/releases/tag/2.4.0.4
 
 Snappy Driver Folder:
-Snappy Driver Origin: https://www.glenn.delahoy.com/snappy-driver-installer-origin/
+- Snappy Driver Origin: https://www.glenn.delahoy.com/snappy-driver-installer-origin/
 
 Telemtry Folder:
-DWS: https://github.com/spinda/Destroy-Windows-10-Spying
-Shutup10: https://www.oo-software.com/en/shutup10
+- DWS: https://github.com/spinda/Destroy-Windows-10-Spying
+- Shutup10: https://www.oo-software.com/en/shutup10
 
 Timer Resolution Folder:
 - MeasureSleep/SetTimerResolution/TimerResolutionBenchmark: Amitxv (The original content is currently deleted.

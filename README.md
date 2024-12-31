@@ -13,13 +13,13 @@ This project has been rigorously tested on a wide range of systems, including Wi
 
 ## ©️ Credits
 <h3> TimerResolution Files </h3>
-- MeasureSleep.exe - Amitxv
-- SetTimerResolution.exe - Amitxv
-- TimerResolutionBenchmark.ps1 - Amitxv
-- Dpclat.exe - Thesycon GmbH
+- MeasureSleep.exe: Amitxv
+- SetTimerResolution.exe: Amitxv
+- TimerResolutionBenchmark.ps1: Amitxv
+- Dpclat.exe: Thesycon GmbH
 
 <h3> WinTweaks Files </h3>
-- PowerRun - Sordum Team
-- DevManView - Nirsoft
-- MagPlanPC.pow - MagnusTweaker
-- MagPlanLaptop.pow - MagnusTweaker
+- PowerRun: Sordum Team
+- DevManView: Nirsoft
+- MagPlanPC.pow: MagnusTweaker
+- MagPlanLaptop.pow: MagnusTweaker

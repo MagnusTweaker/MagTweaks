@@ -1,5 +1,5 @@
 <h1 align="center"> ⚠ DISCLAIMER ⚠ </h1>
-<h2 align="center"> This repository is created to avoid potential issues with the original links of the mentioned creators. At the end of this document, the corresponding credits will be provided. </h1>
+<h2 align="center"> This repository is intended exclusively for using GitHub as a cloud storage platform and for downloading the dependencies of my tweaks (MagTweaks). Some tools developed by third-party creators have been utilized to optimize and accelerate the client system. All programs used will be duly credited to their respective creators. </h1>
 
 ## 🔴 About Magtweaks
 If you're here, it's because you're already familiar with my project, MagTweaks.

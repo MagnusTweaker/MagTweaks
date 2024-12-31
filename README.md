@@ -1,15 +1,17 @@
-#*Disclaimer* 
-This repository is created to avoid potential issues with the original links of the mentioned creators. At the end of this document, the corresponding credits will be provided.
+*Disclaimer* 
+This repository is intended exclusively for using GitHub as cloud storage and facilitating the download of dependencies required for my project, MagTweaks. Various external tools created by other developers were employed to optimize and enhance the performance of the client system. All programs used in the development of this project will be properly credited, including their respective creators.
 #
-Hello!
-=
-If you're here, it's because you know or have tried my work. I want to clarify that none of the files in this repository belong to me, except for "MagPlan.pow", "MagTweaks.nip", and "MagTweaks Shutup.cfg", which I have created myself. On the other hand, I have tested each of the application configurations on various systems, resulting in overall system performance improvements, reduced latencies (DPC), delta cycles below 0.03, and fewer FPS stutters on both NVIDIA and AMD, among other benefits.
-#
-I would like to acknowledge some of the content creators I have collaborated with:
-- Firewolf (ARK content creator): https://www.youtube.com/@FIREWOLF_YT
-- JeterFF (FreeFire content creator): https://www.youtube.com/@JETERFF/videos
-- MellamanNano (Variety gaming content creator): https://www.youtube.com/@MeLlamanNano/videos
-- Nvvxete (GTAV roleplay streamer): https://www.twitch.tv/nvvxete?lang=es
+*Hello*
+If you're here, it's because you're already familiar with my project, "MagTweaks".
+
+MagTweaks focuses on safely optimizing system performance without compromising Windows functionality. This is achieved through the intelligent disabling of unnecessary features, services, and processes.
+This project has been rigorously tested on a wide range of systems, including Windows 10 and 11, both PCs and laptops, and hardware from brands like Intel, Ryzen, Nvidia, and Radeon.
+
+The benefits of this project include:
+
+- Significant improvements in overall system performance, particularly in smoothness and FPS.
+- Reduced latency (DPC/ISR), enhancing system responsiveness.
+- Network performance enhancements, addressing issues like bufferbloat and jitter
 #
 Credits.
 =

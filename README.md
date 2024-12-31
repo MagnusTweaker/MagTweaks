@@ -12,13 +12,13 @@ This project has been rigorously tested on a wide range of systems, including Wi
 - Network performance enhancements (bufferbloat)
 
 ## ©️ Credits
-<h3> TimerResolution Files </h3>
+TimerResolution Files
 - MeasureSleep.exe: Amitxv
 - SetTimerResolution.exe: Amitxv
 - TimerResolutionBenchmark.ps1: Amitxv
 - Dpclat.exe: Thesycon GmbH
 
-<h3> WinTweaks Files </h3>
+WinTweaks Files
 - PowerRun: Sordum Team
 - DevManView: Nirsoft
 - MagPlanPC.pow: MagnusTweaker

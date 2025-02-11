@@ -16,10 +16,9 @@ TimerResolution Files
 - MeasureSleep.exe: Amitxv
 - SetTimerResolution.exe: Amitxv
 - TimerResolutionBenchmark.ps1: Amitxv
-- Dpclat.exe: Thesycon GmbH
+- Dpclat.exe: Softpedia
 
 WinTweaks Files
 - PowerRun: Sordum Team
 - DevManView: Nirsoft
 - MagPlanPC.pow: MagnusTweaker
-- MagPlanLaptop.pow: MagnusTweaker
